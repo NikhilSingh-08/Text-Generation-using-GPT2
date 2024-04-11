@@ -1,0 +1,8 @@
+columns:
+    - label: object
+    - text: object
+    - is_valid: bool
+
+
+
+
